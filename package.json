@@ -1,0 +1,15 @@
+{
+  "name": "code-royale",
+  "version": "1.0.0",
+  "description": "Code used to play https://www.codingame.com/ide/puzzle/code-royale",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "Luis Rovirosa <luisrovirosa@gmail.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
